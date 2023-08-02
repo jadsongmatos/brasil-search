@@ -14,7 +14,7 @@
     "@next/font": "13.1.5",
     "@types/make-fetch-happen": "^10.0.1",
     "@types/node": "^18.11.18",
-    "@types/react": "18.0.27",
+    "@types/react": "18.2.9",
     "@types/react-dom": "18.0.10",
     "bootstrap": "next-5",
     "eslint": "8.32.0",
